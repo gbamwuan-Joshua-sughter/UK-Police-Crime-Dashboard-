@@ -168,5 +168,5 @@ Aspiring Data Analyst with hands-on experience in Microsoft Excel, SQL, Power BI
 
 Connect with Me
 
-- LinkedIn: Add your LinkedIn profile link
+- LinkedIn: https://www.linkedin.com/in/sughter-gbamwuan-732955357
 - GitHub: Add your GitHub profile link
